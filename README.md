@@ -5,7 +5,7 @@ Skrip ini ditujukan untuk bermain Impostor Word Game menggunakan aplikasi WhatsA
 ## INSTALL
 ```cmd
 $ git clone https://github.com/FebbAdityaN/impostor-wabot
-$ cd werewolf-wabot
+$ cd impostot-wabot
 $ npm i
 $ npm run dev
 ```
