@@ -1,0 +1,36 @@
+{
+  "name": "Keishu-imo",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp Bot",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "febb",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.7.21",
+    "axios": "^0.24.0",
+    "chalk": "^2.4.2",
+    "child_process": "^1.0.2",
+    "clui": "^0.3.6",
+    "dotenv": "^16.4.5",
+    "fetch": "^1.1.0",
+    "figlet": "^1.5.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "^2.6.4",
+    "nodemon": "^3.1.11",
+    "path": "^0.12.7",
+    "pino": "^7.2.0",
+    "readline": "^1.3.0",
+    "util": "^0.12.4"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "watch": ["handler.js", "function.js"],
+  "ext": "js, json, env",
+  "ignore": ["node_modules", "session", "src/impostor/lib/db"],
+  "exec": "node --experimental-modules index.js"
+}
