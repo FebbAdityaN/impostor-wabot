@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "name": "Lokasi & Tempat",
+      "words": [
+        "Sekolah",
+        "Kebun Binatang",
+        "Supermarket",
+        "Rumah Sakit",
+        "Bandara",
+        "Taman Hiburan",
+        "Gedung Bioskop",
+        "Pantai",
+        "Perpustakaan",
+        "Stasiun Kereta",
+        "Restoran Mewah",
+        "Museum Seni"
+      ]
+    },
+    {
+      "name": "Benda & Objek",
+      "words": [
+        "Cermin",
+        "Sepatu",
+        "Payung",
+        "Pensil",
+        "Kursi",
+        "Jam Dinding",
+        "Bola",
+        "Gelas",
+        "Bantal",
+        "Sabun",
+        "Peta",
+        "Lampu"
+      ]
+    },
+    {
+      "name": "Profesi & Pekerjaan",
+      "words": [
+        "Guru",
+        "Dokter",
+        "Polisi",
+        "Pemadam Kebakaran",
+        "Koki",
+        "Pilot",
+        "Astronot",
+        "Petani",
+        "Penyanyi",
+        "Fotografer",
+        "Penulis",
+        "Hakim"
+      ]
+    },
+    {
+      "name": "Makanan & Minuman",
+      "words": [
+        "Nasi Goreng",
+        "Cokelat",
+        "Pizza",
+        "Kopi",
+        "Es Krim",
+        "Rendang",
+        "Sate",
+        "Susu",
+        "Teh",
+        "Apel",
+        "Roti",
+        "Kentang Goreng"
+      ]
+    },
+    {
+      "name": "Hewan",
+      "words": [
+        "Gajah",
+        "Jerapah",
+        "Kucing",
+        "Singa",
+        "Monyet",
+        "Kelinci",
+        "Ular",
+        "Kuda",
+        "Bebek",
+        "Ikan Hiu",
+        "Anjing",
+        "Kupu-kupu"
+      ]
+    }
+  ]
+}
